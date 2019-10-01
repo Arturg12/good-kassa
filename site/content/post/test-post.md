@@ -8,6 +8,11 @@ description: >-
   авторства. С его помощью можно идентифицировать личность составителя бумаги
   без его присутствия.
 image: /img/jertk.jpg
+
+image: /img/jertk.jpg
+image: /img/jertk.jpg
+image: /img/jertk.jpg
+image: /img/jertk.jpg
 body_two: >-
   ## Получение цифровой подписи: пошаговая инструкция
 
