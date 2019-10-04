@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: https://good-kassa.ru/post/
+Disallow: /post/
+Disallow: /values/
+Disallow: /contact/
