@@ -1,21 +1,16 @@
 ---
 title: Все онлайн кассы по лучшим ценам
 subtitle: Все регионы России
-image: /img/poi11.jpg
+image: /img/onlaj-kassa-2-1.jpg
 blurb:
   heading: Почему мы?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Good-kassa лидер по продажам онлайн касс в 2019 годы. Благодаря лучшему
+    сервису, техподдержке и хнизкой цены мы выстраиваем отношения с нашими
+    клиентами на долгое время.
 intro:
-  heading: What we offer
-  text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  heading: Что мы предлагаем
+  text: Качественные онлайн кассы
 products:
   - image: img/illustrations-coffee.svg
     text: >-
