@@ -1,6 +1,6 @@
 ---
-title:Онлайн кассы
-type: Каталог товаров
+title:Our Coffee
+type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
