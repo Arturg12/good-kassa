@@ -1,6 +1,6 @@
 .w1 {    width: var(--spacing-medium); }
 .w2 {    width: 2rem; }
-.w3 {    width: 4rem; }
+.w3 {    width: 6rem; }
 .w4 {    width: 8rem; }
 .w5 {    width: 16rem; }
 
@@ -26,7 +26,7 @@
 @media (--breakpoint-not-small) {
   .w1-ns {  width: var(--spacing-medium); }
   .w2-ns {  width: 2rem; }
-  .w3-ns {  width: 4rem; }
+  .w3-ns {  width: 6rem; }
   .w4-ns {  width: 8rem; }
   .w5-ns {  width: 16rem; }
   .w-10-ns { width:  10%; }
@@ -51,7 +51,7 @@
 @media (--breakpoint-medium) {
   .w1-m {      width: var(--spacing-medium); }
   .w2-m {      width: 2rem; }
-  .w3-m {      width: 4rem; }
+  .w3-m {      width: 6rem; }
   .w4-m {      width: 8rem; }
   .w5-m {      width: 16rem; }
   .w-10-m { width:  10%; }
@@ -76,7 +76,7 @@
 @media (--breakpoint-large) {
   .w1-l {      width: var(--spacing-medium); }
   .w2-l {      width: 2rem; }
-  .w3-l {      width: 4rem; }
+  .w3-l {      width: 6rem; }
   .w4-l {      width: 8rem; }
   .w5-l {      width: 16rem; }
   .w-10-l {    width:  10%; }
