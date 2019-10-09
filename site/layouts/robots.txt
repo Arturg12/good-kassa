@@ -1,8 +1,1 @@
 User-agent: *
-
-Disallow: /values/
-Disallow: /contact/
-Disallow: /products/
-Disallow: /post/making-sense/
-Disallow: /post/test-post/
-Disallow: /post/jamaica-blue/
