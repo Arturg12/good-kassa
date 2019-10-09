@@ -1,6 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
+enableRobotsTXT = "true"
 title = "Homepage"
 
 # RSS, categories and tags disabled for an easy start
