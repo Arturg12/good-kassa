@@ -1,7 +1,8 @@
 <head>
 
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
-
+	<description>{{ .Description }} | {{ $.Site.Description }}</description>
+	
   {{ $stylesheet := .Site.Data.webpack.main }}
   {{ with $stylesheet.css }}
     <link href="{{ relURL . }}" rel="stylesheet">
