@@ -6,5 +6,4 @@
 
 
 User-agent: *
-Disallow:{{ if not $allowCrawling }} /{{ end }}
 Sitemap: {{ "/sitemap.xml" | absURL }}
